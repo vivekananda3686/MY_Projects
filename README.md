@@ -1,4 +1,2 @@
-# On - Demand Session
+# MY_Projects website building
 
-- Identifying the State
-- Updating the styles based on State
